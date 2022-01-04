@@ -1,0 +1,46 @@
+.logo {
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+  color: #e5e5e5;
+}
+
+.header {
+  height: 985px;
+  background-image: url("../img/header-first_background.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.logo.header__logo {
+}
+.container {
+}
+.header-nav {
+  margin-top: 15px;
+}
+.nav {
+  height: 94px;
+  background: #292929;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav__row {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.nav__item {
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 37px;
+  margin-right: 90px;
+  color: #ffffff;
+  margin-bottom: 17px;
+}
